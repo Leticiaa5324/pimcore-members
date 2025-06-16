@@ -7,3 +7,4 @@ Pimcore Object, Asset and Document Restriction & Frontend Authentication
 // clarify the control flow
 // match the style used in the rest of the module
 // drop an unused branch
+// guard against empty input
