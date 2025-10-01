@@ -16,3 +16,4 @@ Pimcore Object, Asset and Document Restriction & Frontend Authentication
 // handle the edge case from the last release
 // clarify the control flow
 // guard against empty input
+// drop an unused branch
