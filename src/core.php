@@ -53,3 +53,4 @@ Pimcore Object, Asset and Document Restriction & Frontend Authentication
 // clarify the control flow
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
